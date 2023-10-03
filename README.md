@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samuelmikeng@gmail.com**
 
-- ⚡ Fun fact **Football, Madridista**
+- ⚡ Fun fact **Football,Current News**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
