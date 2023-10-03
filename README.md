@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/samuel-mikeng-mbongo-3409bb118" target="blank"><img align="center" src="https://raw.githubusercontent.com/samuelmico9/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-mikeng-mbongo-3409bb118" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21383227/samuelmico9" target="blank"><img align="center" src="https://raw.githubusercontent.com/samuelmico9/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21383227/samuelmico9" height="30" width="40" /></a>
 <a href="https://web.facebook.com/samuelmicombongo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/samuelmico9/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/samuelmico9/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/samuelmicombongo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/samuelmico9/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samuelmicombongo/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/samuelmico mbongo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/samuelmico9/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samuelmico mbongo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
