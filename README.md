@@ -3,7 +3,8 @@
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelmico9&label=Profile%20views&color=0e75b6&style=flat" alt="samuelmico9" /> </p>
-
+Algo_badge_Award.png
+OOP badge Award.png
 <p align="left"> <a href="https://twitter.com/mico_samuel" target="blank"><img src="https://img.shields.io/twitter/follow/mico_samuel?logo=twitter&style=for-the-badge" alt="mico_samuel" /></a> </p>
 
 - 🌱 I’m currently learning **Defense Analyst**
