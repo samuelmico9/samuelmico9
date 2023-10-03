@@ -1,7 +1,4 @@
 ## Introduction
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?
-</p>
 ![samuelmico9 GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
 <h1 align="center">Hi 👋, I'm Samuel Mikeng M</h1>
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
