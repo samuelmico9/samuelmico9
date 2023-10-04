@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelmico9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="samuelmico9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelmico9&show_icons=true&locale=en&theme=tokyonight" alt="samuelmico9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelmico&show_icons=true&locale=en&theme=tokyonight" alt="samuelmico9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmico&theme=tokyonight" alt="samuelmico9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmico9&theme=tokyonight" alt="samuelmico9" /></p>
