@@ -1,6 +1,9 @@
 ![samuelmico9 GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
 <h1 align="center">Hi 👋, I'm Samuel Mikeng M</h1>
-<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">I'm a Cybersecurity Specialist dedicated to safeguarding digital assets and building resilient, future-ready infrastructures.
+My primary focus is on offensive and defensive security, bringing hands-on experience in threat hunting, security analysis, and penetration testing. I thrive on leveraging advanced tools and frameworks to detect intrusions, hunt adversaries, and strengthen defenses against evolving cyber threats.
+Supporting this core expertise is my background as a Full Stack Developer, proficient in Node.js, MongoDB, HTML, CSS, and JavaScript. This unique combination allows me to not only uncover vulnerabilities but also understand the architecture to build truly secure, high-performance solutions from the ground up.
+I'm always eager to take on new challenges and connect with like-minded professionals who share a passion for proactive defense and innovation. Feel free to explore my projects!.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelmico9&label=Profile%20views&color=0e75b6&style=flat" alt="samuelmico9" /> </p>
 
