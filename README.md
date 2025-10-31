@@ -9,7 +9,7 @@ I'm always eager to take on new challenges and connect with like-minded professi
 
 <p align="left"> <a href="https://twitter.com/mico_samuel" target="blank"><img src="https://img.shields.io/twitter/follow/mico_samuel?logo=twitter&style=for-the-badge" alt="mico_samuel" /></a> </p>
 
-- 🌱 I’m currently learning **Defense Analyst**
+- 🌱 I’m currently learning **AI Threat Intelligence Analyst & Operationalizing AI Agents**
 
 - 👨‍💻 All of my projects are available at [samuelmico9](samuelmico9)
 
